@@ -5,12 +5,14 @@ autom4te.cache
 aux
 build
 cambioni2019/.dirstamp
+collresolve.egg-info
 config.h
 config.h.in
 config.h.in~
 config.log
 config.status
 configure
+dist
 libtool
 Makefile
 Makefile.in
