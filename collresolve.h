@@ -18,7 +18,7 @@
  *
  * If you use this library in a scientific work that lead to publication,
  * we would like you to acknowledge the following article:
- * Emsenhuber, A., Cambioni S., Asphaug, E., Gabriel, T. S. J., Schwartz, S. R., and Furfaro, R. (in prep.). Realistic On-the-fly Outcomes of Planetary Collisions II: Bringing Machine Learning to N-body Simulations.
+ * Emsenhuber, A., Cambioni S., Asphaug, E., Gabriel, T. S. J., Schwartz, S. R., and Furfaro, R. (2020). Realistic On-the-fly Outcomes of Planetary Collisions. II. Bringing Machine Learning to N-body Simulations. The Astrophysical Journal, 891(1), 6. doi:10.3847/1538-4357/ab6de5 bib:2020ApJ...891....6E
  *
  * If you use the LS2012 model, you should also cite:
  * Leinhardt, Z. M. and Stewart, S. T. (2012). Collisions between Gravity-dominated Bodies. I. Outcome Regimes and Scaling Laws. The Astrophysical Journal, 745(1), 79. doi:10.1088/0004-637X/745/1/79 bib:2012ApJ...745...79L

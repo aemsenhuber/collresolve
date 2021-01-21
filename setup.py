@@ -8,7 +8,7 @@ module = setuptools.Extension(
 
 setuptools.setup(
     name = "collresolve",
-    version = "1.2",
+    version = "1.3",
     author = "Alexandre Emsenhuber",
     author_email = "emsenhuber@lpl.arizona.edu",
     description = "Analyse and predict outcomes of collision in N-body",

@@ -218,7 +218,7 @@ int collresolve_conf_unit_m_earth( struct collresolve_conf* conf ) {
 	const double mass = GM_E / GRAV_SI; /* Mass of the earth; the IAU way */
 
 	conf->G = GM_E;
-	conf->mEarth = mass;
+	conf->mEarth = 1.;
 	conf->refDens = 1000. / mass;
 
 	return 1;
